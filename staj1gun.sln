@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface3", "Interface3\In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{BBD4E907-19C3-4627-AB0D-44D0A0E8996A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameService", "GameService\GameService.csproj", "{636FBD57-3FC9-46A4-98EE-7530D7DB0116}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameService", "GameService\GameService.csproj", "{636FBD57-3FC9-46A4-98EE-7530D7DB0116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameService2", "GameService2\GameService2.csproj", "{A73ED829-8D61-4E5A-81CA-B2A46DBEAE86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{636FBD57-3FC9-46A4-98EE-7530D7DB0116}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{636FBD57-3FC9-46A4-98EE-7530D7DB0116}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{636FBD57-3FC9-46A4-98EE-7530D7DB0116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A73ED829-8D61-4E5A-81CA-B2A46DBEAE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73ED829-8D61-4E5A-81CA-B2A46DBEAE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73ED829-8D61-4E5A-81CA-B2A46DBEAE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73ED829-8D61-4E5A-81CA-B2A46DBEAE86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
